@@ -45,7 +45,7 @@ I deployed working solutions to my clients.
 ![ Flutter ](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![ Miro ](https://img.shields.io/badge/-Miro-000?&logo=Miro)
 ![ drizzle ](https://img.shields.io/badge/-drizzle-000?&logo=drizzle)
-<--[![My Skills](https://skillicons.dev/icons?i=js,php,tailwind,bash,bootstrap,cs,dotnet,firebase,flutter,git,laravel,mongodb,mysql,nextjs,nodejs,postgres,postman,react,sqlite,ts,vite,vue,wordpress,supabase,figma,express,docker,css,dart,html,java,jquery,kotlin,sentry&perline=11)](https://skillicons.dev) -->
+
 ---
 
 ## 💼 What I Do
