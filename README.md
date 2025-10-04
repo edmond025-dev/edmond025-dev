@@ -15,7 +15,7 @@ I deployed working solutions to my clients.
 
 ---
 ## 🧰 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,php,tailwind,bash,bootstrap,cs,dotnet,firebase,flutter,git,laravel,mongodb,mysql,nextjs,nodejs,postgres,postman,react,sqlite,ts,vite,vue,wordpress,supabase,figma&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,tailwind,bash,bootstrap,cs,dotnet,firebase,flutter,git,laravel,mongodb,mysql,nextjs,nodejs,postgres,postman,react,sqlite,ts,vite,vue,wordpress,supabase,figma,express,docker,css,dart,html,java,jquery,kotlin,sentry&perline=11)](https://skillicons.dev)
 ---
 
 ## 💼 What I Do
