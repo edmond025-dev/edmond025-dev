@@ -36,7 +36,7 @@ I deployed working solutions to my clients.
 
 ### 🔹 [Gift Voucher]
 
-Porfolio to showcase my works
+Voucher to sale and redeem voucher
 
 ### 🔹 [Invoice-it App]
 
