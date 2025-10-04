@@ -61,11 +61,11 @@ A desktop application for retail stores
 ### Technologies
 
 
-![Docker](https://img.shields.io/badge/-Apache_Kafka-000?&logo=Apache_Kafka)
-![Docker](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Docker](https://img.shields.io/badge/-Sqlite-000?&logo=Sqlite)
-![Docker](https://img.shields.io/badge/-Phpmyadmin-000?&logo=Phpmyadmin)
-![Docker](https://img.shields.io/badge/-Apache_Kafka-000?&logo=Kafka)
+![Apache_Kafka](https://img.shields.io/badge/-Apache_Kafka-000?&logo=Apache_Kafka)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Sqlite](https://img.shields.io/badge/-Sqlite-000?&logo=Sqlite)
+![Phpmyadmin](https://img.shields.io/badge/-Phpmyadmin-000?&logo=Phpmyadmin)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
