@@ -14,7 +14,7 @@ efficient data-driven solutions. Skilled at collaborating across teams to delive
 I deployed working solutions to my clients.
 
 ---
-## 🧰 Skills
+## 🧰 Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,php,tailwind,bash,bootstrap,cs,dotnet,firebase,flutter,git,laravel,mongodb,mysql,nextjs,nodejs,postgres,postman,react,sqlite,ts,vite,vue,wordpress,supabase,figma,express,docker,css,dart,html,java,jquery,kotlin,sentry&perline=11)](https://skillicons.dev)
 ---
 
@@ -26,17 +26,8 @@ I deployed working solutions to my clients.
 - **Mobile Application Development**  
 - **Application UX Development**
 - **Software Testing**
-- **Help Businesses improve on their solutions** 
+- **Help Businesses improve on their solutions** - Consumer related digital solutions
 
----
-
-## 🛠 Skills & Technologies
-- **Programming Languages:** PHP, JavaScript, Dart, SQL, Python (basic), PL/SQL (currently running)  
-- **Frameworks & Libraries:** Laravel, Livewire, React, Flutter  
-- **Databases:** MySQL, PostgreSQL, Oracle Database (currently running)  
-- **Payment APIs:** MPESA Daraja, STK Push, Paybill, C2B, B2C  
-- **Tools & Platforms:** Git, Docker, Composer, Nginx, Apache  
-- **Other Expertise:**  REST APIs, Software Architecture, Agile Development  
 
 ---
 
