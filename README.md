@@ -69,7 +69,7 @@ A desktop application for retail stores
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![MongoDb](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![MongoDb](https://img.shields.io/badge/-Spring-000?&logo=MongoDB)
 
 
 
