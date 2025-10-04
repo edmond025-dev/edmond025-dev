@@ -27,59 +27,42 @@ I deployed working solutions to my clients.
 - **Application UX Development**
 - **Software Testing**
 - **Help Businesses improve on their solutions** - Consumer related digital solutions
+- **Come up with innovative business ideas to help businesses grow**
 
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 [Point of Sale System with MPESA](https://pos.jminnovatechsolution.co.ke)
+### 🔹 [Gift Voucher]
 
-A modern Laravel-based POS system designed to streamline sales, inventory, and financial management. It features **real-time MPESA integration**, automated order processing, and seamless payment confirmations, making it ideal for retail and wholesale businesses.
+Porfolio to showcase my works
 
-### 🔹 [Pharmacy Management System](https://github.com/Jmuthoga/Phamarcy_management_system)
+### 🔹 [Invoice-it App]
 
-A comprehensive solution tailored for pharmacies to manage **drug inventory, prescriptions, sales, suppliers, and reporting**. The system improves accuracy, reduces losses, and ensures regulatory compliance in medical record handling.
+A desktop app for mananging and tracking invoices for small businesses
 
-### 🔹 [Laravel E-commerce with MPESA](https://github.com/Jmuthoga/laravel-ecommerce-mpesa)
+### 🔹 [Quick Resume App]
 
-A scalable e-commerce platform with an **admin dashboard, product catalog, order management, and integrated MPESA payments**. It provides a secure, user-friendly online shopping experience while supporting business growth.
+A web app for generating resumes for cyber cafe or for printing purposes.
 
-### 🔹 [JM Innovatech Solutions Website](https://jminnovatechsolution.co.ke)
+### 🔹 [Note Keeper]
 
-The official corporate website for **JM Innovatech Solutions**, showcasing services, solutions, and client portfolio. It serves as a central hub for business inquiries, client engagement, and company updates.
+A simple web for tracking and keeping notes
 
-### 🔹 [Loan Management System](http://loan.jminnovatechsolution.co.ke)
+### 🔹 [Point Of Sale App]
 
-A robust system that enables financial institutions to **manage borrowers, loans, repayments, interest calculations, and reporting**. It simplifies loan tracking and ensures transparency between lenders and clients.
+A desktop application for retail stores
 
-> **Note:** Some of the above projects are presented as public demos, while others remain private to protect client confidentiality.
+> **Note:** Some of the above projects remain private to protect client confidentiality.
 
----
 
-## 🏆 Key Achievements
-- ✅ Delivered **5+ production-ready systems** used by businesses across Kenya  
-- ✅ Integrated **MPESA APIs** for **10+ companies** to enable seamless mobile payments  
-- ✅ Built **scalable ERP solutions** that handle sales, inventory, and finance efficiently  
-- ✅ Founded **JM Innovatech Solutions**, a growing tech company offering web and software solutions  
-- ✅ Recognized for **building reliable systems that support SMEs and enterprises**  
-
----
-
-## 🎓 Education & Certifications
-- **BSc in Mathematics and Computer Science** – Meru University of Science and Technology  
-- **Generative AI Certificate** – Open University of Kenya  
-- **Oracle Learning Journey** – Currently advancing in enterprise software solutions  
 
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: **johnmuthogakanyingi@gmail.com**  
-- 🌍 Website: [jminnovatechsolution.co.ke](https://jminnovatechsolution.co.ke)  
-- 💼 LinkedIn: [in/johnmuthoga](https://www.linkedin.com/in/johnmuthoga)  
-- 📘 Facebook: [John Muthoga](https://web.facebook.com/profile.php?id=100063289765677)  
-- 🎵 TikTok: [@jminnovatech](https://www.tiktok.com/@jminnovatech)  
----
+- 📧 Email: **edoch06@gmail.com**  
+- 💼 LinkedIn: [in/johnmuthoga](https://www.linkedin.com/in/johnmuthoga)
 
 ## ☕ Support My Work
 
