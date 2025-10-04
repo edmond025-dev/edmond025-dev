@@ -40,6 +40,7 @@ I deployed working solutions to my clients.
 ![ Dart ](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![ Kotlin ](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![ PHP ](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![ Postman ](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![ TypeScript ](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![ React_Native ](https://img.shields.io/badge/-React_Native-000?&logo=React_Native)
 ![ Flutter ](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
