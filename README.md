@@ -8,7 +8,7 @@
 ## 🌟 Summary
 Application Developer with 4+ years of experience designing, developing, and deploying scalable web and mobile applications. 
 Proficient in **MERN Stack, React, Vue.js, Shadcn, Tailwind, Bootstrap, React Native, Flutter, C#, and ASP.NET**, with strong expertise 
-in building responsive UIs and robust APIs. Skilled in agile project development, version control (Git), and 
+in building responsive UIs and robust APIs. Skilled in agile project development, version control (Git), and
 containerization with Docker. Experienced in working with **Firebase, MongoDB, MySQL, and SQL Server** to create 
 efficient data-driven solutions. Skilled at collaborating across teams to deliver high-quality, innovative software products.
 I deployed working solutions to my clients.
