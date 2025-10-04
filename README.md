@@ -1,4 +1,4 @@
-# Hi, there, Edmond 👋  
+# Hi there, Edmond 👋  
 
 **Applications Developer | Desktop | Web | Mobile | Robotics Enthusiast** 
 
@@ -65,23 +65,23 @@ I deployed working solutions to my clients.
 
 ## 📌 Featured Projects
 
-### 🔹 [Gift Voucher]
+### 🔹 Gift Voucher
 
 Voucher to sale and redeem voucher
 
-### 🔹 [Invoice-it App]
+### 🔹 Invoice-it App
 
 A desktop app for mananging and tracking invoices for small businesses
 
-### 🔹 [Quick Resume App]
+### 🔹 Quick Resume App
 
 A web app for generating resumes for cyber cafe or for printing purposes.
 
-### 🔹 [Note Keeper]
+### 🔹 Note Keeper
 
 A simple web for tracking and keeping notes
 
-### 🔹 [Point Of Sale App]
+### 🔹 Point Of Sale App
 
 A desktop application for retail stores
 
