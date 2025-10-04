@@ -61,6 +61,10 @@ A desktop application for retail stores
 ### Technologies
 
 
+![Docker](https://img.shields.io/badge/-Apache_Kafka-000?&logo=Apache_Kafka)
+![Docker](https://img.shields.io/badge/-Apache_Kafka-000?&logo=Kafka)
+![Docker](https://img.shields.io/badge/-Apache_Kafka-000?&logo=Kafka)
+![Docker](https://img.shields.io/badge/-Apache_Kafka-000?&logo=Kafka)
 ![Docker](https://img.shields.io/badge/-Apache_Kafka-000?&logo=Kafka)
 
 https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
