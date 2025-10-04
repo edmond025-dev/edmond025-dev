@@ -88,7 +88,7 @@ A desktop application for retail stores
 ## 🧑 Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=kafka,kubernetes,redis,bun,electron&perline=11)](https://skillicons.dev)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 > **Note:** Some of the above projects remain private to protect client confidentiality.
