@@ -42,7 +42,7 @@ I deployed working solutions to my clients.
 ![ PHP ](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![ Postman ](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![ TypeScript ](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![ React_Native ](https://img.shields.io/badge/-React_Native-000?&logo=React_Native)
+![ React_Native ](https://img.shields.io/badge/-React%Native-000?&logo=React_Native)
 ![ Flutter ](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![ Miro ](https://img.shields.io/badge/-Miro-000?&logo=Miro)
 ![ drizzle ](https://img.shields.io/badge/-drizzle-000?&logo=drizzle)
