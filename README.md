@@ -1,7 +1,7 @@
 # Hi, there, Edmond 👋  
 
 **Applications Develeper | Desktop Applications | Web Applications | Mobile Applications**  
-Founder & Lead Developer at [JM Innovatech Solutions](https://jminnovatechsolution.co.ke)  
+
 
 ---
 
