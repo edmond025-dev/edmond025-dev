@@ -58,6 +58,20 @@ A desktop application for retail stores
 [![My Skills](https://skillicons.dev/icons?i=kafka,kubernetes,redis,bun,electron&perline=11)](https://skillicons.dev)
 
 
+### Technologies
+
+
+![Docker](https://img.shields.io/badge/-Kafka-000?&logo=Kafka)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+
 > **Note:** Some of the above projects remain private to protect client confidentiality.
 
 
