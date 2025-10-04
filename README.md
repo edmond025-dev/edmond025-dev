@@ -1,6 +1,6 @@
 # Hi, there, Edmond 👋  
 
-**Applications Developer | Desktop | Web | Mobile** 
+**Applications Developer | Desktop | Web | Mobile | Robotics Enthusiast** 
 
 
 ---
