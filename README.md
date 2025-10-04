@@ -26,7 +26,7 @@ I deployed working solutions to my clients.
 ![ TailwindCss ](https://img.shields.io/badge/-TailwindCss-000?&logo=TailwindCss)
 ![ Docker ](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![ Bash ](https://img.shields.io/badge/-Bash-000?&logo=Bash)
-![ CSHARP ](https://img.shields.io/badge/-C%23SHARP-000?&logo=C-SHARP)
+![ CSHARP ](https://img.shields.io/badge/-C%23-000?&logo=C%23)
 ![ Electron ](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![ Express ](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![ Firebase ](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
