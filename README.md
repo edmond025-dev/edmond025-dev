@@ -69,8 +69,8 @@ A desktop application for retail stores
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<img src="{BadgeURLHere}" />
+![MongoDb](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+
 
 
 > **Note:** Some of the above projects remain private to protect client confidentiality.
