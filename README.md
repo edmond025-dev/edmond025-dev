@@ -62,13 +62,7 @@ A desktop application for retail stores
 
 ## 🌐 Connect With Me
 - 📧 Email: **edoch06@gmail.com**  
-- 💼 LinkedIn: [in/johnmuthoga](https://www.linkedin.com/in/johnmuthoga)
-
-## ☕ Support My Work
-
-I am passionate about building impactful systems that empower businesses and communities. If you have found value in my work, demos, or open-source projects and would like to support my journey, you can do so here: [**Buy Me a Coffee**](https://buymeacoffee.com/johnmuthogk).
-
-Your support makes a real difference, it helps me dedicate more time and energy to creating solutions that matter and to continue sharing knowledge with the community.
+- 💼 LinkedIn: [in/tech-cadet](www.linkedin.com/in/techcadet2024)
+- 🔗 Github: [edmond-dev](https://github.com/edmond025-dev)  
 
 
-✨ _“Code with purpose, build with passion, and innovate for impact.”_
