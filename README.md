@@ -1,6 +1,6 @@
-# Hi, I'm John Muthoga Kanyingi 👋  
+# Hi, I'm Edmond 👋  
 
-**Software Developer | Laravel & PHP Expert | MPESA Integrations**  
+**Applications Develeper | Desktop Applications | Web Applications | Mobile Applications**  
 Founder & Lead Developer at [JM Innovatech Solutions](https://jminnovatechsolution.co.ke)  
 
 ---
