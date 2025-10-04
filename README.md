@@ -54,6 +54,10 @@ A simple web for tracking and keeping notes
 
 A desktop application for retail stores
 
+## 🧑 Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=js,php,tailwind,bash&perline=11)](https://skillicons.dev)
+
+
 > **Note:** Some of the above projects remain private to protect client confidentiality.
 
 
