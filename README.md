@@ -86,7 +86,7 @@ A simple web for tracking and keeping notes
 A desktop application for retail stores
 
 ## 🧑 Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=kafka,kubernetes,redis,bun,electron&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kafka,kubernetes,redis,bun&perline=11)](https://skillicons.dev)
 
 
 
