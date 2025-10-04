@@ -15,7 +15,37 @@ I deployed working solutions to my clients.
 
 ---
 ## 🧰 Skills & Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,php,tailwind,bash,bootstrap,cs,dotnet,firebase,flutter,git,laravel,mongodb,mysql,nextjs,nodejs,postgres,postman,react,sqlite,ts,vite,vue,wordpress,supabase,figma,express,docker,css,dart,html,java,jquery,kotlin,sentry&perline=11)](https://skillicons.dev)
+![ MySQL ](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![ Sqlite ](https://img.shields.io/badge/-Sqlite-000?&logo=Sqlite)
+![ Phpmyadmin ](https://img.shields.io/badge/-Phpmyadmin-000?&logo=Phpmyadmin)
+![ PostgreSQL ](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![ Supabase ](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
+![ .NET ](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+![ Clerk ](https://img.shields.io/badge/-Clerk-000?&logo=Clerk)
+![ Bootstrap ](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![ TailwindCss ](https://img.shields.io/badge/-TailwindCss-000?&logo=TailwindCss)
+![ Docker ](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![ Bash ](https://img.shields.io/badge/-Bash-000?&logo=Bash)
+![ CSHARP ](https://img.shields.io/badge/-CSHARP-000?&logo=C-SHARP)
+![ Electron ](https://img.shields.io/badge/-Electron-000?&logo=Electron)
+![ Express ](https://img.shields.io/badge/-Express-000?&logo=Express)
+![ Firebase ](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![ jQuery ](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
+![ JavaScript ](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![ Laravel ](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![ Node ](https://img.shields.io/badge/-Node-000?&logo=Node)
+![ React ](https://img.shields.io/badge/-React-000?&logo=React)
+![ Shadcn ](https://img.shields.io/badge/-Shadcn-000?&logo=Shadcn)
+![ Vue ](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+![ Dart ](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![ Kotlin ](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![ PHP ](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![ TypeScript ](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![ React_Native ](https://img.shields.io/badge/-React_Native-000?&logo=React_Native)
+![ Flutter ](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![ Miro ](https://img.shields.io/badge/-Miro-000?&logo=Miro)
+![ drizzle ](https://img.shields.io/badge/-drizzle-000?&logo=drizzle)
+<--[![My Skills](https://skillicons.dev/icons?i=js,php,tailwind,bash,bootstrap,cs,dotnet,firebase,flutter,git,laravel,mongodb,mysql,nextjs,nodejs,postgres,postman,react,sqlite,ts,vite,vue,wordpress,supabase,figma,express,docker,css,dart,html,java,jquery,kotlin,sentry&perline=11)](https://skillicons.dev) -->
 ---
 
 ## 💼 What I Do
