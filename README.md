@@ -1,6 +1,6 @@
 # Hi, there, Edmond 👋  
 
-**Applications Developer | Desktop Applications | Web Applications | Mobile Applications**  
+**Applications Developer | Desktop | Web | Mobile** 
 
 
 ---
