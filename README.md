@@ -85,6 +85,16 @@ A simple web for tracking and keeping notes
 
 A desktop application for retail stores
 
+
+## Stats
+<!-- Stats card by anuraghazra/github-readme-stats
+     Customization guide:
+     - Hide private contributions: &count_private=true|false
+     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
+     - Show icons: &show_icons=true
+     Docs: https://github.com/anuraghazra/github-readme-stats -->
+![Edmonds' GitHub stats](https://github-readme-stats.vercel.app/api?username=edmond025-dev&show_icons=true&theme=gruvbox)
+
 ## 🧑 Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=kafka,kubernetes,redis,bun&perline=11)](https://skillicons.dev)
 
