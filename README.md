@@ -61,7 +61,7 @@ A desktop application for retail stores
 ### Technologies
 
 
-![Docker](https://img.shields.io/badge/-Kafka-000?&logo=Kafka)
+![Docker](https://img.shields.io/badge/-Apache_Kafka-000?&logo=Kafka)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
