@@ -19,12 +19,14 @@ I deployed working solutions to my clients.
 ---
 
 ## 💼 What I Do
-- **Custom Web Applications** – Building robust and scalable platforms  
-- **Point of Sale (POS) & ERP Systems** – Managing sales, inventory, and finance  
-- **Payment Integrations** – MPESA STK Push, Paybill, C2B, and B2C APIs  
-- **E-commerce Platforms** – Complete online store solutions with secure payments  
-- **Mobile App Development** – Cross-platform apps with Flutter & Dart  
-- **Technology Consulting** – Helping businesses adopt the right digital solutions  
+- **Backend Applications** – APIs and logic
+- **Intergrated Systems POS, Saccos**  
+- **Desktop Applications Development** 
+- **Web Applications Development**
+- **Mobile Application Development**  
+- **Application UX Development**
+- **Software Testing**
+- **Help Businesses improve on their solutions** 
 
 ---
 
