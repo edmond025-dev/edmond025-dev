@@ -86,7 +86,7 @@ A simple web for tracking and keeping notes
 
 A desktop application for retail stores
 
-
+> **Note:** Some of the above projects remain private to protect client confidentiality.
 
 ## 🧑 Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=kafka,kubernetes,redis,bun&perline=11)](https://skillicons.dev)
@@ -94,7 +94,7 @@ A desktop application for retail stores
 
 
 
-> **Note:** Some of the above projects remain private to protect client confidentiality.
+
 
 
 
