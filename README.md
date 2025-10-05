@@ -34,7 +34,7 @@ I deployed working solutions to my clients.
 ![ JavaScript ](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![ Laravel ](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![ Node ](https://img.shields.io/badge/-Node%20js-000?&logo=Node%20js)
-![ React ](https://img.shields.io/badge/-React-000?&logo=React)
+![ React ](https://img.shields.io/badge/-React%20js-000?&logo=React)
 ![ Shadcn ](https://img.shields.io/badge/-Shadcn-000?&logo=Shadcn)
 ![ Vue ](https://img.shields.io/badge/-Vue-000?&logo=Vue)
 ![ Dart ](https://img.shields.io/badge/-Dart-000?&logo=Dart)
