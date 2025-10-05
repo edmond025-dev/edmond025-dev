@@ -103,6 +103,7 @@ A desktop application for retail stores
 ## 🌐 Connect With Me
 - 📧 Email: **edoch06@gmail.com**  
 - 💼 LinkedIn: [in/tech-cadet](www.linkedin.com/in/techcadet2024)
-- 🔗 Github: [edmond-dev](https://github.com/edmond025-dev)  
+- 🔗 Github: [edmond-dev](https://github.com/edmond025-dev)
+- 🛴 Portfolio: [edmond-dev](https://edmond025-dev-portfolio-site.vercel.app)   
 
 
