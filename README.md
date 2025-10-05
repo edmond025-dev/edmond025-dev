@@ -33,7 +33,7 @@ I deployed working solutions to my clients.
 ![ jQuery ](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 ![ JavaScript ](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![ Laravel ](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![ Node ](https://img.shields.io/badge/-Node-000?&logo=Node)
+![ Node ](https://img.shields.io/badge/-Node%20js-000?&logo=Node)
 ![ React ](https://img.shields.io/badge/-React-000?&logo=React)
 ![ Shadcn ](https://img.shields.io/badge/-Shadcn-000?&logo=Shadcn)
 ![ Vue ](https://img.shields.io/badge/-Vue-000?&logo=Vue)
@@ -46,7 +46,7 @@ I deployed working solutions to my clients.
 ![ Flutter ](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![ Miro ](https://img.shields.io/badge/-Miro-000?&logo=Miro)
 ![ drizzle ](https://img.shields.io/badge/-drizzle-000?&logo=drizzle)
-![ Cloudlinary ](https://img.shields.io/badge/-Cloudlinary-000?&logo=Cloudlinary)
+![ Cloudlinary ](https://img.shields.io/badge/-cloudlinary-000?&logo=cloudlinary)
 
 ---
 
