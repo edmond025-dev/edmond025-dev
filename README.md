@@ -46,6 +46,7 @@ I deployed working solutions to my clients.
 ![ Flutter ](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![ Miro ](https://img.shields.io/badge/-Miro-000?&logo=Miro)
 ![ drizzle ](https://img.shields.io/badge/-drizzle-000?&logo=drizzle)
+![ Cloudlinary ](https://img.shields.io/badge/-Cloudlinary-000?&logo=Cloudlinary)
 
 ---
 
