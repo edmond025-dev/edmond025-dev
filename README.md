@@ -66,23 +66,23 @@ I deployed working solutions to my clients.
 
 ## 📌 Featured Projects
 
-### 🔹 Gift Voucher
+### 🔹 News Feed  -- Mobile App
 
-Voucher to sale and redeem voucher
+An app for news updates
 
-### 🔹 Invoice-it App
+### 🔹 Invoice-it App -- Desktop App
 
 A desktop app for mananging and tracking invoices for small businesses
 
-### 🔹 Quick Resume App
+### 🔹 Quick Resume App -- Web App
 
 A web app for generating resumes for cyber cafe or for printing purposes.
 
-### 🔹 Note Keeper
+### 🔹 Note Keeper -- Web App
 
 A simple web for tracking and keeping notes
 
-### 🔹 Point Of Sale App
+### 🔹 Point Of Sale Appp --Desktop App
 
 A desktop application for retail stores
 
